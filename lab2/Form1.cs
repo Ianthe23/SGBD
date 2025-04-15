@@ -186,6 +186,7 @@ namespace lab1
             {
                 if (dataGridView1.SelectedRows.Count > 0)
                 {
+                    if (cs.State == ConnectionState.Closed) cs.Open();
                     string ChildForeignKey = ConfigurationManager.AppSettings["ChildForeignKey"];
                     string ChildPrimaryKey = ConfigurationManager.AppSettings["ChildPrimaryKey"];
                     int selectedForeignKey = Convert.ToInt32(dataGridView1.SelectedRows[0].Cells[ChildForeignKey].Value);
@@ -257,6 +258,7 @@ namespace lab1
             {
                 if (dataGridView2.SelectedRows.Count > 0)
                 {
+                    if (cs.State == ConnectionState.Closed) cs.Open();
                     string ChildPrimaryKey = ConfigurationManager.AppSettings["ChildPrimaryKey"];
                     int selectedChildPrimaryKey = Convert.ToInt32(dataGridView2.SelectedRows[0].Cells[ChildPrimaryKey].Value);
 
@@ -306,6 +308,7 @@ namespace lab1
             {
                 if (dataGridView2.SelectedRows.Count > 0)
                 {
+                    if (cs.State == ConnectionState.Closed) cs.Open();
                     string ChildPrimaryKey = ConfigurationManager.AppSettings["ChildPrimaryKey"];
                     int selectedChildPrimaryKey = Convert.ToInt32(dataGridView2.SelectedRows[0].Cells[ChildPrimaryKey].Value);
 
