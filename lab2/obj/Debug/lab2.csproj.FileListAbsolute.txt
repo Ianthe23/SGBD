@@ -1,0 +1,10 @@
+C:\Users\Ivona\Facultate\SGBD\lab2\bin\Debug\lab2.exe.config
+C:\Users\Ivona\Facultate\SGBD\lab2\bin\Debug\lab2.exe
+C:\Users\Ivona\Facultate\SGBD\lab2\bin\Debug\lab2.pdb
+C:\Users\Ivona\Facultate\SGBD\lab2\obj\Debug\lab2.csproj.AssemblyReference.cache
+C:\Users\Ivona\Facultate\SGBD\lab2\obj\Debug\lab2.Properties.Resources.resources
+C:\Users\Ivona\Facultate\SGBD\lab2\obj\Debug\lab2.csproj.GenerateResource.cache
+C:\Users\Ivona\Facultate\SGBD\lab2\obj\Debug\lab2.csproj.CoreCompileInputs.cache
+C:\Users\Ivona\Facultate\SGBD\lab2\obj\Debug\lab2.exe
+C:\Users\Ivona\Facultate\SGBD\lab2\obj\Debug\lab2.pdb
+C:\Users\Ivona\Facultate\SGBD\lab2\obj\Debug\lab1.Form1.resources
