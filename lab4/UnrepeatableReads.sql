@@ -1,0 +1,44 @@
+USE MagazinMercerie;
+GO
+
+SELECT * FROM FirBumbac;
+DELETE FROM FirBumbac WHERE Fid='4';
+
+CREATE OR ALTER PROCEDURE unrepeatable_reads_T1 AS
+BEGIN
+	BEGIN TRY
+		INSERT INTO FirBumbac (Fid, Culoare, Lungime, Grosime, Gid) VALUES
+		(4, 'Roz', 130, 4, 1)
+		BEGIN TRANSACTION
+		WAITFOR DELAY '00:00:08'
+		UPDATE FirBumbac SET Culoare='Negru' WHERE Fid='4'
+		COMMIT TRANSACTION
+		PRINT 'Transaction T1 commit successful'
+	END TRY
+	BEGIN CATCH
+		ROLLBACK TRANSACTION
+		PRINT 'Transaction T1 failed'
+	END CATCH
+END
+
+CREATE OR ALTER PROCEDURE unrepeatable_reads_T2 AS
+BEGIN
+	BEGIN TRY
+		SET TRANSACTION ISOLATION LEVEL REPEATABLE READ
+		BEGIN TRANSACTION
+		SELECT * FROM FirBumbac
+		WAITFOR DELAY '00:00:12'
+		SELECT * FROM FirBumbac
+		COMMIT TRANSACTION
+		PRINT 'Transaction T2 commit successful'
+	END TRY
+	BEGIN CATCH
+		ROLLBACK TRANSACTION
+		PRINT 'Transaction T2 failed'
+	END CATCH
+END
+
+SELECT * FROM FirBumbac;
+
+EXEC unrepeatable_reads_T1
+EXEC unrepeatable_reads_T2
