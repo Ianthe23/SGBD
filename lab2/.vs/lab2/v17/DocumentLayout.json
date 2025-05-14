@@ -3,40 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Ivona\\Facultate\\SGBD\\lab2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{412FD922-32F2-461F-8CA4-E98040A78C7D}|lab2.csproj|c:\\users\\ivona\\facultate\\sgbd\\lab2\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{412FD922-32F2-461F-8CA4-E98040A78C7D}|lab2.csproj|C:\\Users\\Ivona\\Facultate\\SGBD\\lab2\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{412FD922-32F2-461F-8CA4-E98040A78C7D}|lab2.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{412FD922-32F2-461F-8CA4-E98040A78C7D}|lab2.csproj|c:\\users\\ivona\\facultate\\sgbd\\lab2\\app1.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{412FD922-32F2-461F-8CA4-E98040A78C7D}|lab2.csproj|solutionrelative:app1.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{412FD922-32F2-461F-8CA4-E98040A78C7D}|lab2.csproj|c:\\users\\ivona\\facultate\\sgbd\\lab2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{412FD922-32F2-461F-8CA4-E98040A78C7D}|lab2.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{412FD922-32F2-461F-8CA4-E98040A78C7D}|lab2.csproj|C:\\Users\\Ivona\\Facultate\\SGBD\\lab2\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{412FD922-32F2-461F-8CA4-E98040A78C7D}|lab2.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{412FD922-32F2-461F-8CA4-E98040A78C7D}|lab2.csproj|C:\\Users\\Ivona\\Facultate\\SGBD\\lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{412FD922-32F2-461F-8CA4-E98040A78C7D}|lab2.csproj|c:\\users\\ivona\\facultate\\sgbd\\lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{412FD922-32F2-461F-8CA4-E98040A78C7D}|lab2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{412FD922-32F2-461F-8CA4-E98040A78C7D}|lab2.csproj|c:\\users\\ivona\\facultate\\sgbd\\lab2\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
-      "RelativeMoniker": "D:0:0:{412FD922-32F2-461F-8CA4-E98040A78C7D}|lab2.csproj|solutionrelative:properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{412FD922-32F2-461F-8CA4-E98040A78C7D}|lab2.csproj|c:\\users\\ivona\\facultate\\sgbd\\lab2\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{412FD922-32F2-461F-8CA4-E98040A78C7D}|lab2.csproj|solutionrelative:properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{412FD922-32F2-461F-8CA4-E98040A78C7D}|lab2.csproj|c:\\users\\ivona\\facultate\\sgbd\\lab2\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
-      "RelativeMoniker": "D:0:0:{412FD922-32F2-461F-8CA4-E98040A78C7D}|lab2.csproj|solutionrelative:properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{412FD922-32F2-461F-8CA4-E98040A78C7D}|lab2.csproj|C:\\Users\\Ivona\\Facultate\\SGBD\\lab2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{412FD922-32F2-461F-8CA4-E98040A78C7D}|lab2.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{412FD922-32F2-461F-8CA4-E98040A78C7D}|lab2.csproj|C:\\Users\\Ivona\\Facultate\\SGBD\\lab2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{412FD922-32F2-461F-8CA4-E98040A78C7D}|lab2.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{412FD922-32F2-461F-8CA4-E98040A78C7D}|lab2.csproj|C:\\Users\\Ivona\\Facultate\\SGBD\\lab2\\app2.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{412FD922-32F2-461F-8CA4-E98040A78C7D}|lab2.csproj|solutionrelative:app2.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{412FD922-32F2-461F-8CA4-E98040A78C7D}|lab2.csproj|C:\\Users\\Ivona\\Facultate\\SGBD\\lab2\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{412FD922-32F2-461F-8CA4-E98040A78C7D}|lab2.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,99 +34,36 @@
       "DocumentGroups": [
         {
           "DockedHeight": 378,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Resources.resx",
-              "DocumentMoniker": "C:\\Users\\Ivona\\Facultate\\SGBD\\lab2\\Properties\\Resources.resx",
-              "RelativeDocumentMoniker": "Properties\\Resources.resx",
-              "ToolTip": "C:\\Users\\Ivona\\Facultate\\SGBD\\lab2\\Properties\\Resources.resx",
-              "RelativeToolTip": "Properties\\Resources.resx",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2025-04-15T06:17:27.459Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AssemblyInfo.cs",
-              "DocumentMoniker": "C:\\Users\\Ivona\\Facultate\\SGBD\\lab2\\Properties\\AssemblyInfo.cs",
-              "RelativeDocumentMoniker": "Properties\\AssemblyInfo.cs",
-              "ToolTip": "C:\\Users\\Ivona\\Facultate\\SGBD\\lab2\\Properties\\AssemblyInfo.cs",
-              "RelativeToolTip": "Properties\\AssemblyInfo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T06:17:23.602Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Settings.settings",
-              "DocumentMoniker": "C:\\Users\\Ivona\\Facultate\\SGBD\\lab2\\Properties\\Settings.settings",
-              "RelativeDocumentMoniker": "Properties\\Settings.settings",
-              "ToolTip": "C:\\Users\\Ivona\\Facultate\\SGBD\\lab2\\Properties\\Settings.settings",
-              "RelativeToolTip": "Properties\\Settings.settings",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002767|",
-              "WhenOpened": "2025-04-15T06:17:21.463Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "App1.config",
-              "DocumentMoniker": "C:\\Users\\Ivona\\Facultate\\SGBD\\lab2\\App1.config",
-              "RelativeDocumentMoniker": "App1.config",
-              "ToolTip": "C:\\Users\\Ivona\\Facultate\\SGBD\\lab2\\App1.config",
-              "RelativeToolTip": "App1.config",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA3AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-04-15T06:08:18.233Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Ivona\\Facultate\\SGBD\\lab2\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\Ivona\\Facultate\\SGBD\\lab2\\Form1.cs",
-              "RelativeToolTip": "Form1.cs",
-              "ViewState": "AQIAAK8AAAAAAAAAAAD4v7cAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T13:42:09.506Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Ivona\\Facultate\\SGBD\\lab2\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\Ivona\\Facultate\\SGBD\\lab2\\Form1.cs [Design]",
-              "RelativeToolTip": "Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T13:41:52.364Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Ivona\\Facultate\\SGBD\\lab2\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Ivona\\Facultate\\SGBD\\lab2\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABBAAAA",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAIwA0AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-14T13:41:45.304Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App2.config",
+              "DocumentMoniker": "C:\\Users\\Ivona\\Facultate\\SGBD\\lab2\\App2.config",
+              "RelativeDocumentMoniker": "App2.config",
+              "ToolTip": "C:\\Users\\Ivona\\Facultate\\SGBD\\lab2\\App2.config",
+              "RelativeToolTip": "App2.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-14T13:55:06.509Z"
             },
             {
               "$type": "Document",
@@ -148,18 +73,37 @@
               "RelativeDocumentMoniker": "App.config",
               "ToolTip": "C:\\Users\\Ivona\\Facultate\\SGBD\\lab2\\App.config",
               "RelativeToolTip": "App.config",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAUwAwAAAAvAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-04-14T13:55:06.509Z",
+              "WhenOpened": "2025-04-15T06:08:18.233Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Ivona\\Facultate\\SGBD\\lab2\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Ivona\\Facultate\\SGBD\\lab2\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T13:42:09.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ivona\\Facultate\\SGBD\\lab2\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Ivona\\Facultate\\SGBD\\lab2\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T13:41:52.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "C:\\Users\\Ivona\\Facultate\\SGBD\\lab2\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "Form1.Designer.cs",
@@ -167,8 +111,7 @@
               "RelativeToolTip": "Form1.Designer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAHYAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T13:41:20.829Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-14T13:41:20.829Z"
             }
           ]
         },
